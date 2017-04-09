@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1300px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: cadetblue;
+}
+
+.nav-menu {
+    font-family: 'Arvo', serif;
+    background-color: #3b424c;
+    overflow: hidden;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    float: left;
+    padding: 16px 20px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+}
+
+a:hover {
+    background: #ffffff;
+    color: #000000;
+}
+
+.main-content {
+    width: 100%;
+    height: 650px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.left {
+    width: 70%;
+    height: 650px;
+    background-color: red;
+    float: left;
+}
+
+.one {
+    background-color: aliceblue;
+    width: 65%;
+    height: 200px;
+    float: left;
+}
+
+.two {
+    background-color: #2d2d2d;
+    width: 35%;
+    height: 200px;
+    float: left; 
+}
+
+.pg-1 {
+    font-family: 'Arvo', serif;
+    margin: 0;
+    text-align: right;
+    color: white;
+    font-size: 23px;
+    padding-top: 30px;
+}
+
+.three {
+    width: 33.33%;
+    height: 250px;
+    background-color: blue;
+    float: left;
+}
+
+.right {
+    width: 30%;
+    height: 650px;
+    background-color: purple;
+    float: left;
+}
+
+.four {
+    width: 100%;
+    height: 325px;
+    background-color: bisque;
+    float: left;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: #3b424c;
+}
+
+.pg-2 {
+    font-family: 'Arvo', serif;
+    margin: 0;
+    padding-top: 15px;
+    text-align: center;
+    color: azure;
+}
