@@ -24,7 +24,6 @@ ul {
 li {
     list-style-type: none;
     float: left;
-    padding: 16px 20px;
 }
 
 a {
@@ -32,6 +31,7 @@ a {
     text-decoration: none;
     text-transform: uppercase;
     display: block;
+    padding: 16px 20px;
 }
 
 a:hover {
